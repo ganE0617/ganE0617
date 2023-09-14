@@ -1,4 +1,7 @@
-### Hi there 👋
+# Repository of Gaeun Lee in Gachon Univercity.
+
+hi, I'm gaeun, majoring in artificial intelligence at Gachon Univercity.
+i'm learning C and robotics.
 
 <!--
 **ganE0617/ganE0617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
